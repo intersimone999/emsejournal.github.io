@@ -8,10 +8,10 @@ This special issue is a partnership with the 1st International Workshop on Autom
 - Fernanda Madeiral (KTH Royal Institute of Technology, Sweden), fer.madeiral@gmail.com;
 - Simone Scalabrino (University of Molise, Italy), simone.scalabrino@unimol.it;
 - Rocco Oliveto (University of Molise, Italy), rocco.oliveto@unimol.it;
-- Fernando Castor (Utrecht University, The Netherlands), rocco.oliveto@unimol.it;
+- Fernando Castor (Utrecht University, The Netherlands), f.j.castordelimafilho@uu.nl;
 
 ## Description of the Special Issue
-Reading and understanding code are preliminary activities necessary to maintain and evolve existing systems. Such endeavors take most of developers time. Supporting code reading and understanding may strongly impact the quality and the cost of typical software engineering activities, such as refactoring, debugging, test cases development, and code reviewing.
+Reading and understanding code are preliminary activities necessary to maintain and evolve existing systems. Such endeavors take most of developers time. Supporting code reading and understanding can strongly impact the quality and the cost of typical software engineering activities, such as refactoring, debugging, test cases development, and code reviewing.
 This special issue invites submission on novel and innovative research results and industrial experience papers on code legibility, readability, and understandability. We especially encourage the submission of extended papers from the 1st International Workshop on Automated Support to Improve code Readability (AeSIR 2021). 
 
 The evaluation of papers will be based on:
