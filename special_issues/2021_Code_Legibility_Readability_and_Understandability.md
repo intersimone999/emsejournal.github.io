@@ -35,9 +35,9 @@ The evaluation of papers will be based on:
 
 ## Schedule
 
-- Submission Deadline: February 28, 2022
-- First Round Review Due: June 1, 2022
-- Author Revision Due: September 1, 2022
+- Submission Deadline: August 1, 2022
+- First Round Review Due: November 1, 2022
+- Author Revision Due: February 1, 2023
 
 ## Submission Instructions
 Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/) (http://www.editorialmanager.com/emse/) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
